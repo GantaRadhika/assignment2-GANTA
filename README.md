@@ -32,7 +32,10 @@ This table is about my favourite food items, drinks and locations where we can f
 ---
 # Heading about Quotes
 >“Knowledge of what is does not open the door directly to what should be.”“The only thing that interferes with my learning is my education.”
->Author: "Albert Einstein"
+>Author: *Albert Einstein*
 ***
-# 
+# A New Section about Code Fencing
+
+
+
 
