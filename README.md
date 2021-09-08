@@ -35,7 +35,33 @@ This table is about my favourite food items, drinks and locations where we can f
 >Author: *Albert Einstein*
 ***
 # A New Section about Code Fencing
+> In graph theory, the shortest path problem is the problem of finding a path between two vertices (or nodes) in a graph such that the sum of the weights of its constituent edges is minimized. Quick link to source.`Graphs Traversal/connected/shortest paths`<https://en.wikipedia.org/wiki/Shortest_path_problem>
+```
+vector<vector<int>> adj;  // adjacency list representation
+int n; // number of nodes
+int s; // source vertex
 
+queue<int> q;
+vector<bool> used(n);
+vector<int> d(n), p(n);
+
+q.push(s);
+used[s] = true;
+p[s] = -1;
+while (!q.empty()) {
+    int v = q.front();
+    q.pop();
+    for (int u : adj[v]) {
+        if (!used[u]) {
+            used[u] = true;
+            q.push(u);
+            d[u] = d[v] + 1;
+            p[u] = v;
+        }
+    }
+}
+```
+ Quick link to code :< https://cp-algorithms.com/graph/breadth-first-search.html>
 
 
 
