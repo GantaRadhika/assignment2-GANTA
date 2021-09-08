@@ -61,7 +61,7 @@ while (!q.empty()) {
     }
 }
 ```
- Quick link to code :< https://cp-algorithms.com/graph/breadth-first-search.html>
+ Quick link to code :<https://cp-algorithms.com/graph/breadth-first-search.html>
 
 
 
