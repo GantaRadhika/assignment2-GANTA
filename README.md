@@ -29,4 +29,10 @@ This table is about my favourite food items, drinks and locations where we can f
 |location| guntur  | vizag   | guntur  |hyderabad|
 |  type  | spicy   | spicy   | spicy   | spicy   |
 | amount | 10-20   | 15-25   |  5-10   | 20-30   |
+---
+# Heading about Quotes
+>“Knowledge of what is does not open the door directly to what should be.”“The only thing that interferes with my learning is my education.”
+>Author: "Albert Einstein"
+***
+# 
 
