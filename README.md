@@ -18,3 +18,15 @@
 * relatives
 * friends    
 **[linktoAboutMe.md](AboutMe.md)**
+---
+# section about creating a table about food/drinks
+
+Intro:
+This table is about my favourite food items, drinks and locations where we can find them along with cost
+|required|  item1  |  item2  |  item3  |  item4  |
+|:------:|  :----: | :-----: | :------:| :-----: |
+|food    |manchuria|  pizza  | pulihora| biryani |
+|location| guntur  | vizag   | guntur  |hyderabad|
+|  type  | spicy   | spicy   | spicy   | spicy   |
+| amount | 10-20   | 15-25   |  5-10   | 20-30   |
+
